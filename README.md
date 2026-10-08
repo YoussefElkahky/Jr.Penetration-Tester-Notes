@@ -7,7 +7,7 @@ Personal study notes compiled while working through a structured path toward bec
 This repository contains detailed, ongoing notes from my cybersecurity and penetration testing learning journey, organized as a single comprehensive reference document (`Jr_Penetration_Tester_Path_A.md`).
 
 The notes cover topics typically found on a junior pentester learning path, such as:
-- Introduction to Pentesting]
+- Introduction to Pentesting
 - Vulnerability Research
 - Network Reconnaissance
 - Protocols and Servers
