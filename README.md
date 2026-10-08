@@ -7,12 +7,21 @@ Personal study notes compiled while working through a structured path toward bec
 This repository contains detailed, ongoing notes from my cybersecurity and penetration testing learning journey, organized as a single comprehensive reference document (`Jr_Penetration_Tester_Path_A.md`).
 
 The notes cover topics typically found on a junior pentester learning path, such as:
-- Networking & protocol fundamentals
-- Linux/Windows privilege escalation
-- Web application vulnerabilities (OWASP Top 10, etc.)
-- Enumeration & reconnaissance techniques
-- Exploitation methodology
-- Tool usage (Nmap, Burp Suite, Metasploit, etc.)
+- Introduction to Pentesting]
+- Vulnerability Research
+- Network Reconnaissance
+- Protocols and Servers
+- Nmap
+- Web Application Security Fundamentals
+- Burp Suite
+- Web Application Vulnerabilities I
+- Web Application Vulnerabilities II
+- Vulnerability Knowledge
+- OWASP Top 10 2025
+- Password Attacks
+- Metasploit and Exploitation
+- Privilege Escalation
+- Active Directory Security Testing Basics
 
 *(Adjust the bullet list above to match the actual section headings in the notes — happy to pull the table of contents and tailor it exactly.)*
 
