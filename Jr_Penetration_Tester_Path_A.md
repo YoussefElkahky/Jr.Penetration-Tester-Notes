@@ -20,6 +20,10 @@ status: in-progress
 - [[#9. Web Application Vulnerabilities II]]
 - [[#10. Vulnerability Knowledge]]
 - [[#11. OWASP Top 10 2025]]
+- [[#12. Password Attacks]]
+- [[#13. Metasploit and Exploitation]]
+- [[#14. Privilege Escalation]]
+- [[#15. Active Directory Security Testing Basics]]
 - [[#CTF Practice Rooms]]
 
 ---
