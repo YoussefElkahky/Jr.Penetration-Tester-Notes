@@ -23,8 +23,6 @@ The notes cover topics typically found on a junior pentester learning path, such
 - Privilege Escalation
 - Active Directory Security Testing Basics
 
-*(Adjust the bullet list above to match the actual section headings in the notes — happy to pull the table of contents and tailor it exactly.)*
-
 ## Structure
 
 | File | Description |
